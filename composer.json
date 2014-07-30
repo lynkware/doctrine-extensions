@@ -1,5 +1,5 @@
 {
-    "name": "wiredmedia/doctrine-extensions",
+    "name": "yz0/doctrine-extensions",
     "require": {
         "doctrine/orm": "*"
     },

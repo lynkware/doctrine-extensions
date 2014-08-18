@@ -1,5 +1,5 @@
 {
-    "name": "yz0/doctrine-extensions",
+    "name": "lynkware",
     "require": {
         "doctrine/orm": "*"
     },
